@@ -2688,7 +2688,7 @@ input, select, textarea {
 		left: 0;
 		padding: 1em 4em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 35%;
 	}
@@ -2727,6 +2727,7 @@ input, select, textarea {
 			margin: 0;
 			display: flex;
 			justify-content: center;
+			align-items:center ;
 
 		}
 
@@ -3117,6 +3118,8 @@ input, select, textarea {
 
 				#header h1 {
 					font-size: 1.25em;
+					display: flex;
+					align-items: center;
 				}
 
 					#header h1 br {
