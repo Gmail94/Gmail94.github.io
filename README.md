@@ -1,6 +1,8 @@
 # Personal Portfolio Website
 This is a personal portfolio website showcasing my skills, projects, and experience as a web developer. It's built with HTML, CSS, and JavaScript.
 
+Deployed at liamgilmore.ca
+
 ## Getting Started
 To get started with the project, you can clone the repository using Git or download the code as a ZIP file.
 
